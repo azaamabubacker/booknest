@@ -1,6 +1,6 @@
 import { QueryClient } from '@tanstack/react-query';
 
-const queryClient = new QueryClient({
+export const queryClientBook = new QueryClient({
   defaultOptions: {
     queries: {
       staleTime: 2 * 60 * 1000,
@@ -10,4 +10,4 @@ const queryClient = new QueryClient({
   },
 });
 
-await queryClient.prefetchQuery({ queryKey: ['posts'] });
+await queryClientBook.prefetchQuery({ queryKey: ['posts'] });
