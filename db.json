@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "description": "Small habits compound into remarkable results through systems and consistency.",
+      "publishedDate": "2018-10-16",
+      "cover": null,
+      "read": false
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "description": "A practical guide to writing readable, maintainable software.",
+      "publishedDate": "2008-08-01",
+      "cover": null,
+      "read": true
+    },
+    {
+      "id": 3,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "genre": "Programming",
+      "description": "Principles and practices for pragmatic, effective software development.",
+      "publishedDate": "1999-10-30",
+      "cover": null,
+      "read": false
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "description": "How focused work creates value in a distracted world and how to train it.",
+      "publishedDate": "2016-01-05",
+      "cover": null,
+      "read": false
+    },
+    {
+      "id": 5,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "description": "Timeless lessons on wealth, greed, and happiness through human behavior.",
+      "publishedDate": "2020-09-08",
+      "cover": null,
+      "read": true
+    },
+    {
+      "id": 6,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "description": "A brief history of humankind and how we came to shape the world.",
+      "publishedDate": "2011-01-01",
+      "cover": null,
+      "read": false
+    },
+    {
+      "id": 7,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "description": "A shepherd’s journey of purpose, luck, and listening to your heart.",
+      "publishedDate": "1988-01-01",
+      "cover": null,
+      "read": false
+    },
+    {
+      "id": 8,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "description": "Politics, prophecy, and power collide on a desert planet with a priceless resource.",
+      "publishedDate": "1965-08-01",
+      "cover": null,
+      "read": true
+    },
+    {
+      "id": 9,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "description": "A chilling story of surveillance, control, and truth in a totalitarian state.",
+      "publishedDate": "1949-06-08",
+      "cover": null,
+      "read": true
+    },
+    {
+      "id": 10,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "description": "Bilbo Baggins is swept into an adventure filled with dragons, treasure, and courage.",
+      "publishedDate": "1937-09-21",
+      "cover": null,
+      "read": false
+    }
+  ]
+}
