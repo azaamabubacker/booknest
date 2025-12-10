@@ -8,3 +8,6 @@ export type Book = {
   cover: string | null;
   read: boolean;
 };
+
+export type NewBook = Omit<Book, 'id'>;
+export type UpdateBook = Partial<Book>;
